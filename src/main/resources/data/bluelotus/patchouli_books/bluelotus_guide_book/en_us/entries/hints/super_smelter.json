@@ -1,0 +1,14 @@
+{
+    "name": "Super Smelter 2.0",
+    "icon": "minecraft:blast_furnace",
+    "category": "bluelotus:hints",
+    "pages": [
+
+        {
+            "type": "patchouli:quest",
+            "title": "Super Smelter 2.0",
+            "text": "Can you find a way to duplicate ores? There must be a better way to smelt than a blast furnace...  $(br)There might be a book for this too."
+        }
+
+        ]
+    }

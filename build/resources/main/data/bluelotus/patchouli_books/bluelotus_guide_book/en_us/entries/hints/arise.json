@@ -1,0 +1,15 @@
+{
+    "name": "Mysterious Dungeons",
+    "icon": "minecraft:lantern",
+    "category": "bluelotus:hints",
+    "pages": [
+
+        {
+            "type": "patchouli:quest",
+            "title": "When dungeons arised...",
+            "text": "There are rumours that massive dungeons exist in far away places, filled with dangeourus enemies and the great tresures. $(br)Towering above the clouds, you will surely recognize them when you find one."
+
+        }
+
+        ]
+    }

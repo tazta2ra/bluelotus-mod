@@ -1,0 +1,10 @@
+repositories {
+  maven {
+    url = "https://maven.blamejared.com"
+  }
+}
+
+dependencies {
+  modImplementation "vazkii.patchouli:Patchouli:1.18.2-70"
+}
+

@@ -1,0 +1,16 @@
+{
+    "name": "Walking on lava",
+    "icon": "minecraft:lava_bucket",
+    "category": "bluelotus:hints",
+    "pages": [
+
+        {
+            "type": "patchouli:quest",
+            "title": "Walking on lava",
+            "text": "What if I told you there's a way to walk on lava... $(br)With these boots equipped you can cool down molten lava into solid blocks."
+
+
+        }
+
+        ]
+    }

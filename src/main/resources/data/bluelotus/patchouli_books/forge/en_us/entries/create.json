@@ -1,0 +1,31 @@
+{
+    "name": "Creating the smelter",
+    "icon": "minecraft:blast_furnace",
+    "category": "bluelotus:smelter",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alloy_forgery:stone_bricks_forge_controller",   
+            "title": "Crafing the smelter.",
+            "text": "To create a smelter you will need : a forge controller and blocks from the same type."
+
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Forge",
+            "multiblock": {
+                "pattern": [
+                    [ " S ", "S S", " S "], 
+                    [ " S ", "S0C", " S "],
+                    [ "SSS", "SSS", "SSS"]
+                ],
+                "mapping": {
+                    "S": "minecraft:stone_bricks",
+                    "C": "alloy_forgery:stone_bricks_forge_controller"
+                }
+            }
+
+        }
+
+    ]
+}

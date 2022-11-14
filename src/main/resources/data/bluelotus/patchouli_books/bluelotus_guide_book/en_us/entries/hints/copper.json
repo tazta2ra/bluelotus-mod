@@ -1,0 +1,17 @@
+{
+    "name": "Snow, iron and ???",
+    "icon": "minecraft:carved_pumpkin",
+    "category": "bluelotus:hints",
+    "turnin": "friendsandfoes:adventure/summon_copper_golem",
+    "pages": [
+
+        {
+            "type": "patchouli:quest",
+            "title": "Snow, iron and ???",
+            "text": "Discover the third golem.",
+            "trigger": "friendsandfoes:adventure/summon_copper_golem"
+
+        }
+
+        ]
+    }

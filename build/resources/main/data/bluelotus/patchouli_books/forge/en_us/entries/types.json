@@ -1,0 +1,45 @@
+{
+    "name": "Tiers and types",
+    "icon": "minecraft:furnace",
+    "category": "bluelotus:smelter",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Tiers and types ",
+            "text": "There are multiple variations of the forge, some are higher tier than others. $(br)Example : The stone bricks smelter is a lower tier than the prismarine smelter."
+
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Stone Bricks",
+            "item": "alloy_forgery:stone_bricks_forge_controller"  
+
+
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Bricks",
+            "item": "alloy_forgery:bricks_forge_controller"
+
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Deepslate Bricks",
+            "item": "alloy_forgery:deepslate_bricks_forge_controller"
+
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Prismarine",
+            "item": "alloy_forgery:prismarine_bricks_forge_controller"
+
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Polished Blackstone",
+            "item": "alloy_forgery:polished_blackstone_forge_controller"
+
+        }
+
+    ]
+}

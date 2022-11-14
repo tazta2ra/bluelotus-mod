@@ -1,0 +1,65 @@
+{
+  "mod_elements": [
+    {
+      "name": "Bluelotus",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bluelotus"
+    },
+    {
+      "name": "BlueLotusMod",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_lotus_tab"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.bluelotus.blue_lotus_tab": "Blue Lotus",
+      "item.bluelotus.bluelotus": "Bluelotus"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "bluelotus",
+    "modName": "Blue Lotus",
+    "version": "1.0.0",
+    "description": "The mod made for Blue Lotus Modpack",
+    "author": "aninucsalas",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU Lesser General Public License version 3 (LGPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "blue_lotus_logomodr256",
+    "requiredMods": [
+      "patchouli",
+      "origins",
+      "antiqueatlas",
+      "dungeons_arise"
+    ],
+    "dependencies": [
+      "patchouli",
+      "origins",
+      "antiqueatlas",
+      "dungeons_arise"
+    ],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "patchouli"
+    ],
+    "currentGenerator": "fabric-1.18.2",
+    "credits": "By Aninuscsalas with MCreator",
+    "modElementsPackage": "xyz.aninuscsalas.bluelotus",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200346416
+}

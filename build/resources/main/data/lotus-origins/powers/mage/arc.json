@@ -1,0 +1,33 @@
+{
+	"name": "Master Wand",
+	"description": "A Mage is not a Mage without his trusty wand.",
+
+	"type": "origins:action_on_callback",
+	"entity_action_chosen": {
+	
+	"type": "origins:and",
+	"actions": [
+	  {
+		"type": "origins:execute_command",
+		"command": "give @s arcanus:master_wand"
+	},
+	  {    
+		"type": "origins:execute_command",
+		"command": "spells spellbook arcanus:magic_missile"
+	  },
+	  {    
+		"type": "origins:execute_command",
+		"command": "spells spellbook arcanus:lunge"
+	  }
+	]
+
+
+				},
+    
+	"execute_chosen_when_orb": true
+
+}
+
+
+
+

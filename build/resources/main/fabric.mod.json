@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "bluelotus",
+  "version": "2",
+  "name": "Blue Lotus Core",
+  "description": "The mod made for Blue Lotus Modpack",
+  "authors": [
+    "aninucsalas"
+  ],
+  "contact": {
+    "homepage": "https://github.com/tazta2ra/bluelotus-mod",
+    "sources": ""
+  },
+  "license": "GNU General Public License version 3 (GPLv3)",
+  "icon": "assets/bluelotus/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "xyz.aninuscsalas.bluelotus.BluelotusMod"
+    ],
+    "client": [
+      "xyz.aninuscsalas.bluelotus.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.18",
+    "java": ">=17"
+  }
+}

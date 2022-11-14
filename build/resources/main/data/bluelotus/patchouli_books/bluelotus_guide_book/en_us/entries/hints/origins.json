@@ -1,0 +1,16 @@
+{
+    "name": "Origins",
+    "icon": "origins:orb_of_origin",
+    "category": "bluelotus:hints",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "title": "Origins",
+            "text": "When you first joined this world you needed to choose an origin. But is it possible to change it?"
+        },
+        {
+            "type": "patchouli:empty",
+            "draw_filler": false
+        }
+    ]
+}
