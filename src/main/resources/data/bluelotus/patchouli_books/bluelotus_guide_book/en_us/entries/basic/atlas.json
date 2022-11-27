@@ -1,17 +1,18 @@
 {
     "name": "Best way to navigate",
     "icon": "minecraft:map",
+    "sortnum": 3,
     "category": "bluelotus:basics",
     "pages": [
         {
             "type": "patchouli:spotlight",
             "item": "antiqueatlas:empty_antique_atlas",
             "title": "Best way to navigate",
-            "text": "The Anique Atlas is an useful map item and a must have for a explorers. In the atlas you can use markes for easier navigation. You can also put the item in your offhand to have a physical minimap."
+            "text": "The Anique Atlas is an useful map item and a must have for a explorers. In the atlas you can use markers for easier navigation. You can also put the item in your offhand to have a physical minimap."
         },
         {
             "type": "patchouli:image",
-            "title": "A map of a minecraft world",
+            "title": "A nice map",
             "images": ["bluelotus:textures/gui/entries/atlas.png"]
         }
         ]

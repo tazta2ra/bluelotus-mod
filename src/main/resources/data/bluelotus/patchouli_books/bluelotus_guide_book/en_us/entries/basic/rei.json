@@ -1,6 +1,7 @@
 {
     "name": "Discover new content",
     "icon": "minecraft:writable_book",
+    "sortnum": 2,
     "category": "bluelotus:basics",
     "pages": [
         {

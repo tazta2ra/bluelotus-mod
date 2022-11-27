@@ -32,25 +32,25 @@
   "workspaceSettings": {
     "modid": "bluelotus",
     "modName": "Blue Lotus Core",
-    "version": "2",
+    "version": "3.0",
     "description": "The mod made for Blue Lotus Modpack",
     "author": "aninucsalas",
     "websiteURL": "https://github.com/tazta2ra/bluelotus-mod",
     "license": "GNU General Public License version 3 (GPLv3)",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
-    "modPicture": "blue_lotus_logomodr256",
+    "modPicture": "ieecon",
     "requiredMods": [
       "patchouli",
       "origins",
-      "antiqueatlas",
-      "dungeons_arise"
+      "earlygame",
+      "antiqueatlas"
     ],
     "dependencies": [
       "patchouli",
       "origins",
-      "antiqueatlas",
-      "dungeons_arise"
+      "earlygame",
+      "antiqueatlas"
     ],
     "dependants": [],
     "mcreatorDependencies": [
@@ -61,5 +61,5 @@
     "modElementsPackage": "xyz.aninuscsalas.bluelotus",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202200346416
+  "mcreatorVersion": 202200347418
 }
