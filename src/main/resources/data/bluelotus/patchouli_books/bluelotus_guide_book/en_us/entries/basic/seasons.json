@@ -1,0 +1,20 @@
+{
+    "name": "Changing Seasons",
+    "icon": "seasons:season_calendar",
+    "sortnum": 1,
+    "category": "bluelotus:basics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Seasons",
+            "text": "As time moves on the seasons change... Thats really it. Doesn't really affect gameplay, but in winter rain is replaced with snow and the colors change with the season."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "seasons:season_calendar",
+            "title": "Calendar",
+            "text": "You can craft a calendar to always keep track of the current season!"
+
+        }
+        ]
+    }
