@@ -1,0 +1,35 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "bluelotus",
+    "modName": "Blue Lotus",
+    "version": "5.0",
+    "description": "The mod made for Blue Lotus",
+    "author": "aninucsalas,",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU Lesser General Public License version 3 (LGPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "bluelotus_mod400",
+    "requiredMods": [
+      "patchouli"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.19.2",
+    "credits": "aninuscsalas with Mcreator",
+    "modElementsPackage": "xyz.aninuscsalas.bluelotus",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200347418
+}

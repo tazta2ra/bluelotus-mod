@@ -1,0 +1,21 @@
+{
+    "name": "Advancements",
+    "icon": "minecraft:bell",
+    "sortnum": 2,
+    "category": "bluelotus:basics",
+    "pages": [
+
+        {
+            "type": "patchouli:text",
+            "title": "Advancements",
+            "text": "You can also use minecraft's bulit-in advancements to find more content and new challenges!"
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["bluelotus:textures/gui/entries/advancements/adv1.png","bluelotus:textures/gui/entries/advancements/adv2.png","bluelotus:textures/gui/entries/advancements/adv3.png"],
+            "border": true,
+            "text": "Some Screenshots..."
+
+        }
+        ]
+    }

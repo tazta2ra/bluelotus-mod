@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "id": "bluelotus",
-  "version": "2",
-  "name": "Blue Lotus Core",
-  "description": "The mod made for Blue Lotus Modpack",
+  "version": "5.0",
+  "name": "Blue Lotus",
+  "description": "The mod made for Blue Lotus",
   "authors": [
-    "aninucsalas"
+    "aninucsalas,"
   ],
   "contact": {
-    "homepage": "https://github.com/tazta2ra/bluelotus-mod",
+    "homepage": "https://mcreator.net",
     "sources": ""
   },
   "license": "GNU General Public License version 3 (GPLv3)",
@@ -25,7 +25,7 @@
   "depends": {
     "fabricloader": ">=0.14.9",
     "fabric": "*",
-    "minecraft": "~1.18",
+    "minecraft": "~1.19",
     "java": ">=17"
   }
 }

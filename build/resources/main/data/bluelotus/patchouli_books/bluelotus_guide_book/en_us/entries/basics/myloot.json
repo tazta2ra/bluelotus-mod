@@ -1,0 +1,19 @@
+{
+    "name": "Your loot, My loot",
+    "icon": "myloot:loot_chest",
+    "sortnum": 3,
+    "category": "bluelotus:basics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Your loot, My loot",
+            "text": "For servers, myLoot is included in the modpack, this makes so every player can claim the loot from naturally spawning loot chests. $(br)$(br)You need to shift click to break loot chests to prevent accidental breaking. "
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["bluelotus:textures/gui/entries/chest.png"],
+            "border": true,
+            "text": "Gold : The unopened chest $(br)Diamond : The opened chest"
+        }
+        ]
+    }

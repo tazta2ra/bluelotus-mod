@@ -1,0 +1,16 @@
+{
+    "name": "Vampires",
+    "icon": "haema:vampire_blood",
+    "sortnum": 4,
+    "category": "bluelotus:journey",
+    "pages": [
+
+        {
+            "type": "patchouli:spotlight",
+            "title": "Book of Blood",
+            "item": "haema:book_of_blood",
+            "text": "In this world vampires exist. Can you slay one or will you become one of them?"
+
+        }
+        ]
+    }

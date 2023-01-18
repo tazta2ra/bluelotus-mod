@@ -1,0 +1,15 @@
+{
+    "name": "Portable Crafting",
+    "icon": "minecraft:crafting_table",
+    "sortnum": 4,
+    "category": "bluelotus:basics",
+    "pages": [
+
+        {
+            "type": "patchouli:spotlight",
+            "item": "onastick:crafting_table_on_a_stick",
+            "title": "Portable Crafting",
+            "text": "A crafing table... on a stick! Genius! $(br) $(br) - There are also other items on sticks ;) "
+        }
+        ]
+    }

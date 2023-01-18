@@ -1,0 +1,17 @@
+{
+    "name": "The End?",
+    "icon": "minecraft:end_stone",
+    "advancement":"minecraft:end/kill_dragon",
+    "sortnum": 5,
+    "category": "bluelotus:journey",
+    "pages": [
+
+        {
+            "type": "patchouli:spotlight",
+            "title": "Ancients Almanac",
+            "item": "purpeille:ancients_almanac",
+            "text": "Are you capable of uncovering the secrets of the ancient past?"
+
+        }
+        ]
+    }

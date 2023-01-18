@@ -1,0 +1,16 @@
+{
+    "name": "Magical Things",
+    "icon": "minecraft:apple",
+    "sortnum": 1,
+    "category": "bluelotus:journey",
+    "pages": [
+
+        {
+            "type": "patchouli:spotlight",
+            "title": "Things Almanac",
+            "item": "things:things_almanac",
+            "text": "Magic items that might be a help to you."
+
+        }
+        ]
+    }

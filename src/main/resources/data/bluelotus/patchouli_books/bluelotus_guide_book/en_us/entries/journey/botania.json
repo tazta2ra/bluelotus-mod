@@ -1,0 +1,15 @@
+{
+    "name": "Botania",
+    "icon": "botania:lexicon",
+    "sortnum": 2,
+    "category": "bluelotus:journey",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Lexica Botania",
+            "item": "botania:lexicon",
+            "text": "Lexica Botania is the repository of all knowledge for botanical matters."
+
+        }
+    ]
+    }

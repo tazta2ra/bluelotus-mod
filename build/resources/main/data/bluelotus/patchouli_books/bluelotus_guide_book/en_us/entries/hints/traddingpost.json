@@ -1,0 +1,16 @@
+{
+    "name": "Trading a village",
+    "icon": "minecraft:emerald",
+    "category": "bluelotus:hints",
+    "pages": [
+
+        {
+            "type": "patchouli:quest",
+            "title": "Trading a village",
+            "text": "Find a way to trade with whole village at once!"
+
+
+        }
+
+        ]
+    }

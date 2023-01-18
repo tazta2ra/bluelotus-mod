@@ -12,9 +12,6 @@
  */
 package xyz.aninuscsalas.bluelotus;
 
-import xyz.aninuscsalas.bluelotus.init.BluelotusModTabs;
-import xyz.aninuscsalas.bluelotus.init.BluelotusModItems;
-
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
@@ -27,9 +24,6 @@ public class BluelotusMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Initializing BluelotusMod");
-		BluelotusModTabs.load();
-
-		BluelotusModItems.load();
 
 	}
 }
