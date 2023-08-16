@@ -1,6 +1,6 @@
 # bluelotus-mod / Blue Lotus Core
 
-# This Mod is only for The Blue Lotus Modpack
+# This Mod is only for The Blue Lotus Classic Modpack
 ## Please DO NOT download otherwise, it depends on most of the mods in the pack.
 
 This mod is made for easier distribution of the guide books and some origins.
